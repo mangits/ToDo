@@ -1,5 +1,6 @@
 import React from 'react';
 import App from './App.js'
+import './Welcome.css'
 
 function Welcome ({username}) {
   return (
@@ -9,4 +10,4 @@ function Welcome ({username}) {
   )
 }
 
-export default Welcome;  
+export default Welcome;

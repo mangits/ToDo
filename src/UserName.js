@@ -7,7 +7,7 @@ function UserName (props) {
         <label>
           <input type="text" id="username" placeholder="Enter Username! 🥳"></input>
         </label>
-        <input type="submit" value="Submit Username 🖕"/>
+        <input type="submit" value="Submit Username 😆"/>
       </form>
     )
   }
